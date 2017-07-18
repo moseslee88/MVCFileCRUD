@@ -91,7 +91,6 @@ public class NBAplayersFileDAO implements BallerDAO {
 	}
 	
 	 @Override
-	    //public void persistThing() {
 	 public void persistThing(List<Baller> nbaplayers) { 
 	        String orderFile = "/WEB-INF/NBAplayers.csv";
 	        String filePath = webappct.getServletContext().getRealPath(orderFile);
