@@ -11,13 +11,6 @@
   </head>
   <body>
   <h1>List of NBA Players</h1><br>
-
-
-  
-   <!--  <form action="GetAllNBAPlayer.do" method="GET">
-      <input type="text" name="name" placeholder="Enter any letter to see List!"/><br />
-      <input type="submit" value="List Players!"/><br />
-    </form>           -->
     
     
     
